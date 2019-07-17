@@ -1,0 +1,20 @@
+{
+   "catalogs": [
+      {
+         "path": "<rootDir>/src/localization/languages/{locale}",
+         "include": [
+            "<rootDir>/src"
+         ],
+         "exclude": [
+            "<rootDir>/node_modules/*"
+         ]
+      }
+   ],
+   "locales": [
+      "en",
+      "ru"
+   ],
+   "format": "po",
+   "fallbackLocale": "en",
+   "sourceLocale": "en"
+}
