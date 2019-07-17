@@ -1,0 +1,1 @@
+# lingui-3-example
